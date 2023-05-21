@@ -6,7 +6,11 @@ function Home() {
   return (
     <div>
       <header>
-        {/* header */}
+        {/* header 
+        
+        Opa fazendo alguns testes
+        
+        */}
       </header>
     </div>
   );
